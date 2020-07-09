@@ -226,3 +226,7 @@
     4.【建议】禁用insert into …on duplicate key update…、replace into等语句，在高并发环境下，极容易导致死锁
 
     5.【强制】禁止联表更新语句，如update t1,t2 where t1.id=t2.id…
+    
+## 结语
+
+    文章来自网络，收集整理而成，侵删～
